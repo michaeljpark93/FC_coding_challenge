@@ -1,7 +1,7 @@
 # FC_coding_challenge
 
 ## Background
-Produce a multiplication table with the first n prime numbers with the prime numbers as the first row and column of the table
+Produce a multiplication table with the first n prime numbers - prime numbers will appear to be the first row and column of the table
 
 ## Installation / Use
 1) Clone/Fork repo and `bundle install` gem dependencies

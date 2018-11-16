@@ -1,5 +1,5 @@
 class Primes
-  def self.get_primes(n=10)
+  def self.get_primes(n = 10)
     return [] if n < 1
     primes = []
     num = 2

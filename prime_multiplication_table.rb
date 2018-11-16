@@ -1,5 +1,4 @@
 require_relative "lib/multiplication_table"
-require_relative "lib/primes"
 
 if $PROGRAM_NAME == __FILE__
   print "Welcome to the primes multiplication table!\n"
